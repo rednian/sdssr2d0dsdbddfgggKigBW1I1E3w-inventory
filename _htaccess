@@ -1,0 +1,6 @@
+Options -Indexes
+<FilesMatch "\.(sql|ini|csv|txt|xml)$">
+Deny from all
+</FilesMatch>
+ErrorDocument 404 /dev/inventory/404.html
+ErrorDocument 403 /dev/inventory/404.html

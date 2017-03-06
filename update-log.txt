@@ -1,0 +1,7 @@
+
+Jan. 20, 2016 - 
+stock in - fixing model number - do not appear in the textfield.
+stock out - inform the user if the quantity in the database is less than the inputted quantity.
+claim - unclaim item show at the top.
+
+
